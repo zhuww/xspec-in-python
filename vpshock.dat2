@@ -1,0 +1,18 @@
+#   1    1   vpshock    kT         keV      1.00000      +/-  0.0          
+#   2    1   vpshock    H                   1.00000      frozen
+#   3    1   vpshock    He                  1.00000      frozen
+#   4    1   vpshock    C                   1.00000      frozen
+#   5    1   vpshock    N                   1.00000      frozen
+#   6    1   vpshock    O                   1.00000      frozen
+#   7    1   vpshock    Ne                  1.00000      frozen
+#   8    1   vpshock    Mg                  1.00000      frozen
+#   9    1   vpshock    Si                  1.00000      frozen
+#  10    1   vpshock    S                   1.00000      frozen
+#  11    1   vpshock    Ar                  1.00000      frozen
+#  12    1   vpshock    Ca                  1.00000      frozen
+#  13    1   vpshock    Fe                  1.00000      frozen
+#  14    1   vpshock    Ni                  1.00000      frozen
+#  15    1   vpshock    Tau_l      s/cm^3   0.0          frozen
+#  16    1   vpshock    Tau_u      s/cm^3   1.00000E+11  +/-  0.0          
+#  17    1   vpshock    redshift            0.0          frozen
+#  18    1   vpshock    norm                1.00000      +/-  0.0          

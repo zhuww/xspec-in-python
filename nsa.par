@@ -1,0 +1,18 @@
+
+!XSPEC12>show parameters;
+#
+#Parameters defined:
+#========================================================================
+#Model nsa<1> Source No.: 1   Active/Off
+#Model Model Component  Parameter  Unit     Value
+# par  comp
+#   1    1   nsa        LogT_eff   K        6.00000      +/-  0.0          
+#   2    1   nsa        M_ns       Msun     1.40000      +/-  0.0          
+#   3    1   nsa        R_ns       km       10.0000      +/-  0.0          
+#   4    1   nsa        MagField   G        0.0          frozen
+#   5    1   nsa        norm                1.00000      +/-  0.0          
+#________________________________________________________________________
+#
+#
+!XSPEC12>log none;
+#

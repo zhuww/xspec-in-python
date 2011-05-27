@@ -1,0 +1,18 @@
+#   1    1   vsedov     kT_a       keV      1.00000      +/-  0.0          
+#   2    1   vsedov     kT_b       keV      0.500000     +/-  0.0          
+#   3    1   vsedov     H                   1.00000      frozen
+#   4    1   vsedov     He                  1.00000      frozen
+#   5    1   vsedov     C                   1.00000      frozen
+#   6    1   vsedov     N                   1.00000      frozen
+#   7    1   vsedov     O                   1.00000      frozen
+#   8    1   vsedov     Ne                  1.00000      frozen
+#   9    1   vsedov     Mg                  1.00000      frozen
+#  10    1   vsedov     Si                  1.00000      frozen
+#  11    1   vsedov     S                   1.00000      frozen
+#  12    1   vsedov     Ar                  1.00000      frozen
+#  13    1   vsedov     Ca                  1.00000      frozen
+#  14    1   vsedov     Fe                  1.00000      frozen
+#  15    1   vsedov     Ni                  1.00000      frozen
+#  16    1   vsedov     Tau        s/cm^3   1.00000E+11  +/-  0.0          
+#  17    1   vsedov     redshift            0.0          frozen
+#  18    1   vsedov     norm                1.00000      +/-  0.0          

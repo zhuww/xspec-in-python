@@ -1,0 +1,30 @@
+
+!XSPEC12>show parameters;
+#
+#Parameters defined:
+#========================================================================
+#Model vnei<1> Source No.: 1   Active/Off
+#Model Model Component  Parameter  Unit     Value
+# par  comp
+#   1    1   vnei       kT         keV      1.00000      +/-  0.0          
+#   2    1   vnei       H                   1.00000      frozen
+#   3    1   vnei       He                  1.00000      frozen
+#   4    1   vnei       C                   1.00000      frozen
+#   5    1   vnei       N                   1.00000      frozen
+#   6    1   vnei       O                   1.00000      frozen
+#   7    1   vnei       Ne                  1.00000      frozen
+#   8    1   vnei       Mg                  1.00000      frozen
+#   9    1   vnei       Si                  1.00000      frozen
+#  10    1   vnei       S                   1.00000      frozen
+#  11    1   vnei       Ar                  1.00000      frozen
+#  12    1   vnei       Ca                  1.00000      frozen
+#  13    1   vnei       Fe                  1.00000      frozen
+#  14    1   vnei       Ni                  1.00000      frozen
+#  15    1   vnei       Tau        s/cm^3   1.00000E+11  +/-  0.0          
+#  16    1   vnei       redshift            0.0          frozen
+#  17    1   vnei       norm                1.00000      +/-  0.0          
+#________________________________________________________________________
+#
+#
+!XSPEC12>log none;
+#

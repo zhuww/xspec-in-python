@@ -1,0 +1,15 @@
+
+!XSPEC12>show parameters;
+#
+#Parameters defined:
+#========================================================================
+#Model bbodyrad<1> Source No.: 1   Active/Off
+#Model Model Component  Parameter  Unit     Value
+# par  comp
+#   1    1   bbodyrad   kT         keV      3.00000      +/-  0.0          
+#   2    1   bbodyrad   norm                1.00000      +/-  0.0          
+#________________________________________________________________________
+#
+#
+!XSPEC12>log none;
+#

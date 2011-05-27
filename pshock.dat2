@@ -1,0 +1,6 @@
+#   1    1   pshock     kT         keV      1.00000      +/-  0.0          
+#   2    1   pshock     Abundanc            1.00000      frozen
+#   3    1   pshock     Tau_l      s/cm^3   0.0          frozen
+#   4    1   pshock     Tau_u      s/cm^3   1.00000E+11  +/-  0.0          
+#   5    1   pshock     redshift            0.0          frozen
+#   6    1   pshock     norm                1.00000      +/-  0.0          

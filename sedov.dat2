@@ -1,0 +1,6 @@
+#   1    1   sedov      kT_a       keV      1.00000      +/-  0.0          
+#   2    1   sedov      kT_b       keV      0.500000     +/-  0.0          
+#   3    1   sedov      Abundanc            1.00000      frozen
+#   4    1   sedov      Tau        s/cm^3   1.00000E+11  +/-  0.0          
+#   5    1   sedov      redshift            0.0          frozen
+#   6    1   sedov      norm                1.00000      +/-  0.0          

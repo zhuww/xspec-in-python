@@ -1,0 +1,9 @@
+statistic chi
+method leven 10 0.01
+abund angr
+xsect bcmc
+cosmo 70 0 0.73
+xset delta -1
+model  bbodyrad
+              3       0.01     0.0001      0.001        100        200
+              1       0.01          0          0      1e+24      1e+24

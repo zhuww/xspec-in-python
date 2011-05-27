@@ -1,0 +1,19 @@
+
+!XSPEC12>show parameters;
+#
+#Parameters defined:
+#========================================================================
+#Model mekal<1> Source No.: 1   Active/Off
+#Model Model Component  Parameter  Unit     Value
+# par  comp
+#   1    1   mekal      kT         keV      1.00000      +/-  0.0          
+#   2    1   mekal      nH         cm-3     1.00000      frozen
+#   3    1   mekal      Abundanc            1.00000      frozen
+#   4    1   mekal      redshift            0.0          frozen
+#   5    1   mekal      switch              1            frozen
+#   6    1   mekal      norm                1.00000      +/-  0.0          
+#________________________________________________________________________
+#
+#
+!XSPEC12>log none;
+#

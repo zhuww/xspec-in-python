@@ -1,0 +1,32 @@
+
+!XSPEC12>show parameters;
+#
+#Parameters defined:
+#========================================================================
+#Model vmekal<1> Source No.: 1   Active/Off
+#Model Model Component  Parameter  Unit     Value
+# par  comp
+#   1    1   vmekal     kT         keV      1.00000      +/-  0.0          
+#   2    1   vmekal     nH         cm-3     1.00000      frozen
+#   3    1   vmekal     He                  1.00000      frozen
+#   4    1   vmekal     C                   1.00000      frozen
+#   5    1   vmekal     N                   1.00000      frozen
+#   6    1   vmekal     O                   1.00000      frozen
+#   7    1   vmekal     Ne                  1.00000      frozen
+#   8    1   vmekal     Na                  1.00000      frozen
+#   9    1   vmekal     Mg                  1.00000      frozen
+#  10    1   vmekal     Al                  1.00000      frozen
+#  11    1   vmekal     Si                  1.00000      frozen
+#  12    1   vmekal     S                   1.00000      frozen
+#  13    1   vmekal     Ar                  1.00000      frozen
+#  14    1   vmekal     Ca                  1.00000      frozen
+#  15    1   vmekal     Fe                  1.00000      frozen
+#  16    1   vmekal     Ni                  1.00000      frozen
+#  17    1   vmekal     redshift            0.0          frozen
+#  18    1   vmekal     switch              1            frozen
+#  19    1   vmekal     norm                1.00000      +/-  0.0          
+#________________________________________________________________________
+#
+#
+!XSPEC12>log none;
+#

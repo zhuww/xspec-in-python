@@ -1,0 +1,17 @@
+
+!XSPEC12>show parameters;
+#
+#Parameters defined:
+#========================================================================
+#Model raymond<1> Source No.: 1   Active/Off
+#Model Model Component  Parameter  Unit     Value
+# par  comp
+#   1    1   raymond    kT         keV      1.00000      +/-  0.0          
+#   2    1   raymond    Abundanc            1.00000      frozen
+#   3    1   raymond    redshift            0.0          frozen
+#   4    1   raymond    norm                1.00000      +/-  0.0          
+#________________________________________________________________________
+#
+#
+!XSPEC12>log none;
+#

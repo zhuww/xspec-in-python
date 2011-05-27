@@ -1,0 +1,9 @@
+statistic chi
+method leven 10 0.01
+abund angr
+xsect bcmc
+cosmo 70 0 0.73
+xset delta -1
+model  powerlaw
+              1       0.01         -3         -2          9         10
+              1       0.01          0          0      1e+24      1e+24

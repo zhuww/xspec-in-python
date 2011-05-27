@@ -1,0 +1,16 @@
+
+!XSPEC12>show parameters;
+#
+#Parameters defined:
+#========================================================================
+#Model cflux<1>Source No.: 1   Active/Off
+#Model Model Component  Parameter  Unit     Value
+# par  comp
+#   1    1   cflux      Emin       keV      0.500000     frozen
+#   2    1   cflux      Emax       keV      10.0000      frozen
+#   3    1   cflux      lg10Flux   cgs      -12.0000     +/-  0.0          
+#________________________________________________________________________
+#
+#
+!XSPEC12>log none;
+#
